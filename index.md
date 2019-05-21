@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to XaviSean's Homepage!
 
-You can use the [editor on GitHub](https://github.com/XaviSean/xavisean.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello everyone! This is XaviSean.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am an undergraduate student in physics major. This homepage contains the course notes of many major physics courses. I sincerely hope my notes help you get interested in physics and comprehend knowledges.
 
 ### Markdown
 
