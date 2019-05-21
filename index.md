@@ -8,8 +8,9 @@ I am an undergraduate student in physics major. This homepage contains the cours
 
 ## Quantum Field Theory
 
+This notes of quantum field theory is mainly referred to Steve Weinberg's **_The Quantum Theory of Fields_**. The arrangement follows the development of the book. Some contents, including some maths and detailed clarification for particular models, are inserted for necessity. In this book, Weinberg constructs a powerful framework for quantum field theory based on integrated mathematics method and abstract theories. It's OK to encounter absurdities and obstables during reading, but keep in mind to stay patient.
 
-This notes of quantum field theory is mainly based on Steve Weinberg's _The Quantum Theory of Fields_. I also highly recommand Michael Peskin's _An Introduction to Quantum Field Theory_.
+Besides, even though I will be glad if you appreciate my notes, I will suggest you more to perude the original book if you have enough interests and enough time. I also highly recommand Michael Peskin's **_An Introduction to Quantum Field Theory_** and Anthony Zee's **_Quantum Field Theory in a Nutshell_**. Both of them are renowned physicists and their works are talented.
 
 ### Markdown
 
