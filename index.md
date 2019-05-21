@@ -18,4 +18,4 @@ This note of quantum mechanics is mainly refered to R. Shankar's **_Principles o
 
 ## Solid State Physics
 
-This note of quantum mechanics is mainly refered to N. W. Ashcroft $ N. D. Mermin's **_Solid State Physics_**, S. Yan's **_Foudations of Solid State Physics （阎守胜，固体物理基础）_** and A. Hu's **_Solid State Physics （胡安，固体物理学）_**. 
+This note of quantum mechanics is mainly refered to N. W. Ashcroft & N. D. Mermin's **_Solid State Physics_**, S. Yan's **_Foudations of Solid State Physics （阎守胜，固体物理基础）_** and A. Hu's **_Solid State Physics （胡安，固体物理学）_**. 
