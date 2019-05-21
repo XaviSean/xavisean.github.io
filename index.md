@@ -1,8 +1,15 @@
-## Welcome to XaviSean's Homepage!
+# Welcome to XaviSean's Homepage!
 
 Hello everyone! This is XaviSean.
 
 I am an undergraduate student in physics major. This homepage contains the course notes of many major physics courses. I sincerely hope my notes help you get interested in physics and comprehend knowledges.
+
+# Notes
+
+## Quantum Field Theory
+
+
+This notes of quantum field theory is mainly based on Steve Weinberg's _The Quantum Theory of Fields_. I also highly recommand Michael Peskin's _An Introduction to Quantum Field Theory_.
 
 ### Markdown
 
