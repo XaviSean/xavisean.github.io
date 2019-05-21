@@ -14,7 +14,9 @@ I also highly recommand M. Peskin's **_An Introduction to Quantum Field Theory_*
 
 ## Quantum Mechanics
 
-This note of quantum mechanics is mainly refered to R. Shankar's **_Principles of Quantum Mechanics_**. Part of the contents are from J. J. Sakurai's **_Modern Quantum Mechanics_** and X. Ka's **_Advanced Quantum Mechanics （喀兴林，高等量子力学）_**. The pictures in this notes are from Wikipedia and S. Brandt & H. Dahmen's **_The Picture Book of Quantum Mechanics_**. 
+This note of quantum mechanics is mainly refered to R. Shankar's **_Principles of Quantum Mechanics_**. Part of the contents are from J. J. Sakurai's **_Modern Quantum Mechanics_** and X. Ka's **_Advanced Quantum Mechanics （喀兴林，高等量子力学）_**. The pictures in this notes are captured from Wikipedia and S. Brandt & H. Dahmen's **_The Picture Book of Quantum Mechanics_**. 
+
+There are miscellaneous quantum mechanics textbooks. Shankar's book is one of the most praised works. It is firendly to freshmen since it states nearly everything with an extremely lucidity. Similar works like D. Griffiths's **_Introduction to Quantum Mechanics_** are also recommended. 
 
 ## Solid State Physics
 
