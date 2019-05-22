@@ -1,6 +1,6 @@
 # Welcome to XaviSean's Homepage!
 
-Hello everyone! This is XaviSean.
+This is XaviSean.
 
 I am an undergraduate student in physics major. This homepage contains the course notes of many major physics courses. I sincerely hope my notes help you get interested in physics and comprehend knowledges. I will also be glad if you appreciate my notes, but I will suggest you more to perude the original books if you have enough interests and enough time. 
 
