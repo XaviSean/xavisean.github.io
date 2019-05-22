@@ -20,4 +20,6 @@ There are miscellaneous quantum mechanics textbooks. Shankar's book is one of th
 
 ## Solid State Physics
 
-This note of quantum mechanics is mainly refered to N. W. Ashcroft & N. D. Mermin's **_Solid State Physics_**, S. Yan's **_Foudations of Solid State Physics （阎守胜，固体物理基础）_** and A. Hu's **_Solid State Physics （胡安，固体物理学）_**. 
+This note of quantum mechanics is mainly refered to N. W. Ashcroft & N. D. Mermin's **_Solid State Physics_**, S. Yan's **_Foudations of Solid State Physics （阎守胜，固体物理基础）_** and A. Hu's **_Solid State Physics （胡安，固体物理学）_**. Ahercroft & Mermin's book is widely delieved to be the most classical work in solid state physics, to which S. Yan's book heavily refers. 
+
+Solid state physics is also a foundamental course for those who want to study condensed matter.
