@@ -8,7 +8,7 @@ I am an undergraduate student in physics major. This homepage contains the cours
 
 ## Quantum Field Theory
 
-The Note is here: <li><p><b><a href = "https://xavisean.github.io/Notes_QFT.pdf"> Note: Quantum Field Theory </a></b></p> </li>
+The Note is here: <b><a href = "https://xavisean.github.io/Notes_QFT.pdf"> Note: Quantum Field Theory </a></b>
 
 This note of quantum field theory is mainly referred to S. Weinberg's **_The Quantum Theory of Fields_**. The arrangement follows the development of the book. Some contents, including some maths and detailed clarification for particular models, are inserted for necessity. In this book, Weinberg constructs a powerful framework for quantum field theory based on integrated mathematics method and abstract theories. It's OK to encounter absurdities and obstables during reading, but keep in mind to stay patient.
 
