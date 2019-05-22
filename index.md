@@ -29,3 +29,9 @@ There are miscellaneous quantum mechanics textbooks. Shankar's book is one of th
 This note of quantum mechanics is mainly refered to N. W. Ashcroft & N. D. Mermin's **_Solid State Physics_**, S. Yan's **_Foudations of Solid State Physics （阎守胜，固体物理基础）_** and A. Hu's **_Solid State Physics （胡安，固体物理学）_**. Ahercroft & Mermin's book is widely delieved to be the most classical work in solid state physics, to which S. Yan's book heavily refers. 
 
 Solid state physics is also a foundamental course for those who want to study condensed matter.
+
+## Photonic Crystal
+
+<b><a href = "https://xavisean.github.io/photonic crystal.pdf"> Photonic Crystal </a></b>
+
+This is an introductory note for photonic crystal and its basic theoretical method. A photonic crystal consists of layers of dielectrics with spatial periodicity. Such a structure defects EM waves with particular frequencies.
