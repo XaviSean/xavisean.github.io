@@ -2,7 +2,7 @@
 
 This is XaviSean.
 
-I am an undergraduate student in physics major. This homepage contains the course notes of many major physics courses. I sincerely hope my notes help you get interested in physics and comprehend knowledges. I will also be glad if you appreciate my notes, but I will suggest you more to perude the original books if you have enough interests and enough time. 
+I am a master student in EPFL. This homepage contains the course notes of many major physics courses. I sincerely hope my notes help you get interested in physics and comprehend knowledges. I would also be glad if you appreciate my notes. Furthermore, if you are intersted in some of the topics, I suggest you to perude the original books if you have enough energy and enough time. 
 
 # Notes
 
